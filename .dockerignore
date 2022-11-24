@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+docker-compose.yml
+Dockerfile
+
+# Jenkins
+Jenkinsfile
+
+# NodeJS
+package-lock.json
+node_modules
+
+# Sonarqube
+sonar-project.properties
+
+# Ready to go
+.ready2go
+ready2go
+
+# Docs
+*.md
+LICENSE
